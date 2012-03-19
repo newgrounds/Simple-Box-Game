@@ -1,0 +1,1 @@
+This is a game I made for a DirectX assignment. It's very basic, and uses VertexBuffers to create the boxes. This also shows how to implement camera rotation and movement.
